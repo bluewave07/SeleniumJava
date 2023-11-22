@@ -1,4 +1,4 @@
-### Selenium with Java Test Automation Framework
+## Selenium with Java Test Automation Framework
 
 Welcome to the Selenium with Java Test Automation Framework repository! This framework provides a foundation for building robust and scalable automated tests using Selenium WebDriver and Java.
 
