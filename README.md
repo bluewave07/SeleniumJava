@@ -56,8 +56,9 @@ Adjust the structure based on your specific needs.
 ## Writing Tests
 Write your tests in the `src/test/java` directory. Utilize the Page Object Model (POM) for better maintainability and reusability.
 
-```java
-// Example Test
+java
+    ```bash
+//Example Test
 public class LoginTest {
     @Test
     public void loginTest() {
@@ -66,12 +67,14 @@ public class LoginTest {
         loginPage.login("username", "password");
         // Add assertions or further actions as needed
     }
-}
+}```
 
 Executing Tests
 Execute your tests using Maven. For example, to run all tests, use the following command:
 
+```bash
 mvn test
+```
 
 Contributing
 Feel free to contribute to this project. Fork the repository, make your changes, and submit a pull request. Please follow the Contributing Guidelines.
