@@ -1,4 +1,4 @@
-# Selenium with Java Test Automation Framework
+    # Selenium with Java Test Automation Framework
 
 Welcome to the Selenium with Java Test Automation Framework repository! This framework provides a foundation for building robust and scalable automated tests using Selenium WebDriver and Java.
 
@@ -67,7 +67,8 @@ public class LoginTest {
         loginPage.login("username", "password");
         // Add assertions or further actions as needed
     }
-}```
+} 
+    ```
 
 Executing Tests
 Execute your tests using Maven. For example, to run all tests, use the following command:
