@@ -56,7 +56,6 @@ Adjust the structure based on your specific needs.
 ## Writing Tests
 Write your tests in the `src/test/java` directory. Utilize the Page Object Model (POM) for better maintainability and reusability.
 
-java
     ```bash
 //Example Test
 public class LoginTest {
