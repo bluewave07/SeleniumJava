@@ -32,23 +32,8 @@ Ensure you have the following prerequisites installed:
 ## Project Structure
 The project follows a standard Maven project structure:
 
-|-- src
-| |-- main
-| | |-- java
-| | | |-- com.example
-| | | | |-- pages
-| | | | |-- tests
-| |-- test
-| | |-- java
-| | | |-- com.example
-| | | | |-- tests
-|-- resources
-| |-- drivers
-| | |-- chromedriver.exe
-| | |-- geckodriver.exe
-|-- .gitignore
-|-- pom.xml
-|-- README.md
+ ![grafik](https://github.com/bluewave07/SeleniumJava/assets/89745681/93c1e3ef-c5c9-49de-a6d6-cab7748bd7d1)
+
 
 
 Adjust the structure based on your specific needs.
