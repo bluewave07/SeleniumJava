@@ -68,6 +68,8 @@ public class Locators {
 
         driver.findElement(By.xpath("//button[contains(@class,'submit')]")).click();
 
+        driver.quit();
+
     }
 
 
